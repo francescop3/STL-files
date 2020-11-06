@@ -1,2 +1,2 @@
 # STL-files
-Folder which contains stl files of objects made by me, and ready to print
+STL files of objects made by me, and ready to 3d-print with PLA material
